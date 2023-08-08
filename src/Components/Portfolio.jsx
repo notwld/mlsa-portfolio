@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Email-Tool",
+    description:"A tool to view emails from multiple email providers in one place.",
+    url: "https://salad-scheduler.netlify.app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Schedular",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Web based Scheduling Algorithms built with Flask, React and MUI",
+    url: "https://salad-scheduler.netlify.app",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created with Next.js and Chakra UI. Includes my experience and design abilities.",
+    url: "muhammadwaleed.me",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "flask-otg",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Boilerplate for building web application with Flask exposed to internet via ngrok.",
+    url: "https://salad-scheduler.netlify.app",
   },
 ];
 
